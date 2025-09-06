@@ -86864,7 +86864,7 @@ M(a){var s,r,q,p=null,o=t.w,n=A.by(a,B.b6,o).w,m=!(n.a.a>768)
 n=m?B.a4:B.a2
 s=A.cj("Purvesh Dongarwar",p,p,p,B.l6,p,p)
 r=A.j_(p,A.by(a,B.b6,o).w.a.a*0.005,p)
-q=A.cj("Mobile App Developer",p,p,p,$.aIs(),p,p)
+q=A.cj("Mobile App Developer | 3D Artist",p,p,p,$.aIs(),p,p)
 o=A.j_(p,A.by(a,B.b6,o).w.a.a*0.01,p)
 return A.dn(A.b([s,r,q,o,A.cj("I build accessible, pixel-perfect digital experiences for the mobile & web.",p,p,p,B.SJ,m?B.c7:B.am,p)],t.p),n,B.A,B.T,0)}}
 A.ND.prototype={
